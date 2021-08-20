@@ -6,7 +6,7 @@ metadata:
 spec:
   href: 'https://uniontechos.com'
   location: ApplicationMenu
-  text: UnionTech Developer Blog - Kubernetes
+  text: UnionTech OS - Official website
   applicationMenu:
-    section: Kubernetes Blogs
-    imageURL: https://i.ibb.co/k4VqMKP/20210728180051.png
+    section: UOS Official Website
+    imageURL: https://i.ibb.co/87G5Vhp/ibb.png
