@@ -23,7 +23,7 @@ spec:
       containers:
       - name: spring-petclinic
         imagePullPolicy: Always
-        image: registry.chengjieos.com/library/spring-petclinic:latest
+        image: 10.30.38.116/library/spring-petclinic_aarch64:latest
         livenessProbe:
           failureThreshold: 3
           httpGet:
