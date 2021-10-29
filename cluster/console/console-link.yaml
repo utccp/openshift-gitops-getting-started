@@ -4,7 +4,7 @@ metadata:
   name: application-menu-ut-developer-blog
   namespace: default
 spec:
-  href: 'https://uniontechos.com'
+  href: 'https://chinauos.com'
   location: ApplicationMenu
   text: UnionTech OS - Official website
   applicationMenu:
